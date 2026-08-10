@@ -116,9 +116,9 @@
       "Al Sadd"
     ],
     "default_stream": {
-      "enabled": false,
-      "name": "السيرفر الافتراضي",
-      "url": "",
+      "enabled": true,
+      "name": "Server 1 MP4",
+      "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
       "type": "mp4",
       "user_agent": "",
       "referer": "",
@@ -134,7 +134,8 @@
     "news_default_image": "",
     "app_token": "",
     "dynamic_streams_enabled": true,
-    "allow_default_stream_for_all": false
+    "allow_default_stream_for_all": true,
+    "default_match_image": "https://i.postimg.cc/NMGmKHd6/Chat-GPT-Image-Aug-9-2026-01-38-53-PM.png"
   },
   "fixture_streams": [],
   "ads": [
@@ -194,6 +195,7 @@
       "app_open_id": "ca-app-pub-3940256099942544/9257395921",
       "rewarded_id": ""
     },
+
     "max": {
       "enabled": false,
       "sdk_key": "YOUR_MAX_SDK_KEY",
@@ -315,7 +317,7 @@
         "first_click": true,
         "first_click_only": false,
         "show_every_clicks": 3,
-        "min_seconds_between_ads": 10,
+        "min_seconds_between_ads": 0,
         "show_on_clicks": [
           "match_click",
           "highlight_click",
@@ -377,7 +379,7 @@
     }
   },
   "player_config": {
-    "use_external_player": true,
+    "use_external_player": false,
     "external_player_package": "com.ilyas.playerpro",
     "external_player_play_store_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
   },
