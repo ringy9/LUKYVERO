@@ -383,7 +383,7 @@
       "interstitial_id": "ca-app-pub-9297113109682195/9572787583",
       "native_id": "ca-app-pub-9297113109682195/2149628525",
       "app_open_id": "ca-app-pub-9297113109682195/3356687426",
-      "rewarded_id": ""
+      "rewarded_id": "ca-app-pub-3940256099942544/5224354917"
     },
     "max": {
       "enabled": false,
@@ -463,7 +463,7 @@
       },
       "rewarded": {
         "enabled": true,
-        "network": "levelplay",
+        "network": "admob",
         "show_on_first_match_click": true,
         "wait_for_load_ms": 2500,
         "fallback_to_interstitial": true
