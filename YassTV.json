@@ -26,11 +26,11 @@
       "cookie": ""
     },
     "show_only_configured_leagues": true,
-    "live_refresh_seconds": 30,
+    "live_refresh_seconds": 60,
     "news_enabled": true,
     "news_language": "ar",
     "news_limit": 15,
-    "news_refresh_minutes": 15,
+    "news_refresh_minutes": 30,
     "news_default_image": ""
   },
   "fixture_streams": [
@@ -351,14 +351,14 @@
   "update": {
     "enabled": false,
     "force_update": false,
-    "latest_version_code": 2,
-    "latest_version_name": "2.0",
+    "latest_version_code": 22,
+    "latest_version_name": "3.9.9",
     "title": "تحديث جديد متاح!",
     "message": "يتوفر إصدار جديد من التطبيق يحتوي على تحسينات في الأداء وميزات جديدة. قم بالتحديث الآن للحصول على أفضل تجربة.",
     "icon": "",
     "update_button_text": "تحديث الآن",
     "later_button_text": "لاحقاً",
-    "update_url": "https://play.google.com/store/apps/details?id=com.sportslive.app",
+    "update_url": "https://play.google.com/store/apps/details?id=com.lukyvero.yasstv",
     "show_every_launch": false
   },
   "exit_dialog": {
@@ -378,11 +378,12 @@
     "fallback_network": "meta",
     "admob": {
       "enabled": true,
-      "app_id": "ca-app-pub-3940256099942544~3347511713",
-      "banner_id": "ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-      "native_id": "ca-app-pub-3940256099942544/2247696110",
-      "app_open_id": "ca-app-pub-3940256099942544/9257395921"
+      "app_id": "ca-app-pub-9297113109682195~6230262776",
+      "banner_id": "ca-app-pub-9297113109682195/7295932436",
+      "interstitial_id": "ca-app-pub-9297113109682195/9572787583",
+      "native_id": "ca-app-pub-9297113109682195/2149628525",
+      "app_open_id": "ca-app-pub-9297113109682195/3356687426",
+      "rewarded_id": ""
     },
     "max": {
       "enabled": false,
@@ -405,7 +406,8 @@
       "enabled": true,
       "placement_banner": "3185030118346765_3208500032666440",
       "placement_interstitial": "3185030118346765_3208500125999764",
-      "placement_native": "3185030118346765_3208500202666423"
+      "placement_native": "3185030118346765_3208500202666423",
+      "placement_rewarded": ""
     },
     "levelplay": {
       "enabled": true,
@@ -415,7 +417,41 @@
       "rewarded_enabled": true,
       "banner_ad_unit_id": "80b1bb6g3lwuxv43",
       "interstitial_ad_unit_id": "bgefeaxzw0yf1mwo",
-      "rewarded_ad_unit_id": "da761sxxpw9787hv"
+      "rewarded_ad_unit_id": "da761sxxpw9787hv",
+      "mediated_networks": {
+        "admob": { "enabled": true, "ready": false, "dashboard_setup_required": true },
+        "meta": { "enabled": true, "ready": false, "dashboard_setup_required": true },
+        "yandex": { "enabled": true, "ready": false, "dashboard_setup_required": true },
+        "vungle_liftoff": { "enabled": true, "ready": false, "dashboard_setup_required": true },
+        "unity_ads": { "enabled": true, "ready": false, "dashboard_setup_required": true }
+      }
+    },
+    "yandex": {
+      "enabled": true,
+      "ready": false,
+      "managed_by": "levelplay",
+      "app_id": "",
+      "banner_id": "",
+      "interstitial_id": "",
+      "rewarded_id": ""
+    },
+    "vungle": {
+      "enabled": true,
+      "ready": false,
+      "managed_by": "levelplay",
+      "app_id": "",
+      "banner_id": "",
+      "interstitial_id": "",
+      "rewarded_id": ""
+    },
+    "unity_ads": {
+      "enabled": true,
+      "ready": false,
+      "managed_by": "levelplay",
+      "game_id_android": "",
+      "banner_id": "",
+      "interstitial_id": "",
+      "rewarded_id": ""
     },
     "placements": {
       "banner": {
@@ -424,6 +460,13 @@
         "fallback_network": "meta",
         "show_on": ["matches", "leagues", "categories", "highlights", "news", "settings", "league_matches", "standings", "about", "privacy"],
         "position": "bottom"
+      },
+      "rewarded": {
+        "enabled": true,
+        "network": "levelplay",
+        "show_on_first_match_click": true,
+        "wait_for_load_ms": 2500,
+        "fallback_to_interstitial": true
       },
       "interstitial": {
         "enabled": true,
