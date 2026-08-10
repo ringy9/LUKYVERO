@@ -315,7 +315,7 @@
         "first_click": true,
         "first_click_only": false,
         "show_every_clicks": 3,
-        "min_seconds_between_ads": 60,
+        "min_seconds_between_ads": 10,
         "show_on_clicks": [
           "match_click",
           "highlight_click",
