@@ -1,15 +1,188 @@
 {
-  "configVersion": 7,
+  "configVersion": 35,
   "appNameAr": "ياسين لايف",
   "appNameEn": "YACINE LIVE",
-  "headerLogoUrl": "",
-  "rateBannerImage": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=1600",
+  "headerLogoUrl": "https://github.com/ringy9/yamine.yt/blob/main/ILYASLOGO.png?raw=true",
+  "rateBannerImage": "https://github.com/ringy9/yamine.yt/blob/main/RateUs.png?raw=true",
   "rateUsUrl": "https://play.google.com/store/apps/details?id=com.ysntv.yaminetv",
   "shareUrl": "https://play.google.com/store/apps/details?id=com.ysntv.yaminetv",
   "privacyPolicyUrl": "",
   "supportEmail": "",
-  "externalPlayerPackage": "com.ilyas.playerpro",
-  "externalPlayerStoreUrl": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro",
+  "oneSignal": {
+    "enabled": true,
+    "appId": "404babad-10e9-4b12-920c-c6663a59fd00",
+    "requestPermissionOnLaunch": true,
+    "permissionPromptDelaySeconds": 5
+  },
+  "ads": {
+    "enabled": true,
+    "testMode": true,
+    "consentEnabled": true,
+    "tagForChildDirectedTreatment": false,
+    "tagForUnderAgeOfConsent": false,
+    "primaryNetwork": "admob",
+    "fallbackNetwork": "ironSourceLevelPlay",
+    "routing": {
+      "admobPrimaryEnabled": true,
+      "levelPlayFallbackEnabled": true
+    },
+    "formats": {
+      "interstitial": {
+        "enabled": true,
+        "showOnContentClick": true,
+        "showOnFirstClick": true,
+        "everyNClicks": 3,
+        "loadTimeoutSeconds": 5,
+        "preloadOnSplash": true,
+        "requireReadyBeforeEnter": true,
+        "splashMinDurationSeconds": 3,
+        "splashMaxWaitSeconds": 12,
+        "showOnOnboardingComplete": true,
+        "minIntervalSeconds": 0,
+        "maxPerSession": 50
+      },
+      "banner": {
+        "enabled": true,
+        "showOnMainScreens": true,
+        "showOnOnboarding": true
+      },
+      "native": {
+        "enabled": true,
+        "showInMatchesFeed": true,
+        "showInLeaguesFeed": true,
+        "showInFavoritesFeed": true,
+        "showInNewsFeed": true,
+        "showUnderPlayer": true,
+        "showAtTopOfNewsArticle": true,
+        "showInExitDialog": true,
+        "showInMatchCenter": true,
+        "showOnOnboardingFinal": true,
+        "showBeforeFirstItem": true,
+        "insertEveryItems": 6,
+        "maxPerScreen": 10
+      },
+      "appOpen": {
+        "enabled": true,
+        "showOnColdStart": false,
+        "showOnForeground": true,
+        "minBackgroundSeconds": 2,
+        "minIntervalSeconds": 30,
+        "maxPerSession": 20
+      },
+      "rewarded": {
+        "enabled": false,
+        "userInitiatedOnly": true,
+        "unlockPremiumServer": false,
+        "timeoutSeconds": 5
+      }
+    },
+    "networks": {
+      "admob": {
+        "enabled": true,
+        "appId": "ca-app-pub-3940256099942544~3347511713",
+        "adUnits": {
+          "interstitial": "ca-app-pub-3940256099942544/1033173712",
+          "banner": "ca-app-pub-3940256099942544/6300978111",
+          "native": "ca-app-pub-3940256099942544/2247696110",
+          "appOpen": "ca-app-pub-3940256099942544/9257395921",
+          "rewarded": "ca-app-pub-3940256099942544/5224354917"
+        }
+      },
+      "meta": {
+        "enabled": true,
+        "appId": "",
+        "adUnits": {
+          "interstitial": "",
+          "banner": "",
+          "native": "",
+          "appOpen": "",
+          "rewarded": ""
+        }
+      },
+      "ironSourceLevelPlay": {
+        "enabled": true,
+        "appKey": "2823163d5",
+        "adUnits": {
+          "interstitial": "n6pxrezl1fbq7x4v",
+          "banner": "2cnaujic4mcx0999",
+          "native": "6wn3ees4mi9xtub6",
+          "appOpen": "",
+          "rewarded": "845b4vblo0fq2tyu"
+        }
+      },
+      "liftoffVungle": {
+        "enabled": true,
+        "appId": "6aa8e1e807b74064097151b2",
+        "adUnits": {
+          "interstitial": "INTERSTITIAL-5694614",
+          "banner": "BANNER-7824215",
+          "native": "NATIVE-2577828",
+          "appOpen": "APP_OPEN-7844106",
+          "rewarded": "REWARDED-8082793"
+        }
+      },
+      "unityAds": {
+        "enabled": true,
+        "gameId": "6190776",
+        "adUnits": {
+          "interstitial": "Interstitial_Android",
+          "banner": "Banner_Android",
+          "native": "",
+          "appOpen": "",
+          "rewarded": "Rewarded_Android"
+        }
+      },
+      "yandex": {
+        "enabled": true,
+        "appId": "20048759",
+        "adUnits": {
+          "interstitial": "R-M-20048759-3",
+          "banner": "R-M-20048759-1",
+          "native": "R-M-20048759-2",
+          "appOpen": "R-M-20048759-5",
+          "rewarded": "R-M-20048759-4"
+        }
+      }
+    }
+  },
+  "socialLinks": {
+    "whatsappEnabled": false,
+    "whatsappUrl": "https://whatsapp.com/channel/0029Vb91zwxBadmUqBZUtO16",
+    "telegramEnabled": false,
+    "telegramUrl": "https://t.me/Ilyas_tv_live"
+  },
+  "telegramJoinPopup": {
+    "enabled": false,
+    "showOnLaunch": true,
+    "showOncePerCampaign": true,
+    "campaignId": "telegram-channel-v1",
+    "channelUrl": "https://t.me/Ilyas_tv_live",
+    "titleAr": "انضم إلى قناتنا على تيليجرام",
+    "titleEn": "Join our Telegram channel",
+    "messageAr": "تابع آخر أخبار المباريات وروابط المشاهدة والتنبيهات المهمة مباشرة على قناتنا.",
+    "messageEn": "Get the latest match news, viewing links and important alerts directly on our channel.",
+    "joinButtonAr": "انضم الآن",
+    "joinButtonEn": "Join now",
+    "laterButtonAr": "لاحقاً",
+    "laterButtonEn": "Later"
+  },
+  "exitDialog": {
+    "enabled": true,
+    "titleAr": "هل تريد مغادرة التطبيق؟",
+    "titleEn": "Leave Yacine Live?",
+    "messageAr": "نتمنى أنك استمتعت بالتجربة. يمكنك العودة في أي وقت لمتابعة جديد المباريات.",
+    "messageEn": "We hope you enjoyed the experience. Come back anytime for the latest matches.",
+    "stayAr": "البقاء",
+    "stayEn": "Stay",
+    "exitAr": "خروج",
+    "exitEn": "Exit"
+  },
+  "externalPlayer": {
+    "enabled": true,
+    "useForAllMatches": true,
+    "packageName": "com.ilyas.playerpro",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
+  },
   "footballApi": {
     "enabled": true,
     "baseUrl": "https://yacine-football-proxy.hamza-ysntv-2026.workers.dev/"
@@ -65,49 +238,60 @@
     489,
     505,
     492,
-    31,
     26,
-    6,
-    2,
     9,
+    2,
     10,
-    1
+    6,
+    27,
+    1,
+    1118,
+    25,
+    31,
+    3,
+    768,
+    8,
+    7,
+    2384,
+    16,
+    12,
+    13
   ],
   "streams": [
-    {
-      "fixtureId": 0,
-      "playerMode": "internal",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=1600",
-      "sources": [
-        {
-          "nameAr": "السيرفر الافتراضي",
-          "nameEn": "Default server",
-          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-          "type": "mp4",
-          "user_agent": "",
-          "referer": "",
-          "origin": "",
-          "cookie": ""
-        }
-      ]
-    },
-    {
-      "fixtureId": 123456,
-      "playerMode": "internal",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1600",
-      "sources": [
-        {
-          "nameAr": "سيرفر 1",
-          "nameEn": "Server 1",
-          "url": "https://example.com/match-123456/master.m3u8",
-          "type": "m3u8",
-          "user_agent": "Mozilla/5.0",
-          "referer": "https://example.com/",
-          "origin": "https://example.com",
-          "cookie": ""
-        }
-      ]
-    }
+  {
+    "fixtureId": 0,
+    "playerMode": "external",
+    "thumbnailUrl": "https://raw.githubusercontent.com/ringy9/yamine.yt/main/thumbnail.png",
+    "sources": [
+      {
+        "nameAr": "السيرفر الافتراضي",
+        "nameEn": "Default server",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": ""
+      }
+    ]
+  },
+  {
+    "fixtureId": 1570400,
+    "playerMode": "external",
+    "thumbnailUrl": "https://raw.githubusercontent.com/ringy9/yamine.yt/main/thumbnail.png",
+    "sources": [
+      {
+        "nameAr": "سيرفر برشلونة",
+        "nameEn": "Barcelona server",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "m3u8",
+        "user_agent": "Mozilla/5.0",
+        "referer": "",
+        "origin": "",
+        "cookie": ""
+      }
+    ]
+  }
   ],
   "highlights": [
     {
