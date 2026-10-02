@@ -6,7 +6,7 @@
   "rateBannerImage": "https://github.com/ringy9/yamine.yt/blob/main/RateUs.png?raw=true",
   "rateUsUrl": "https://play.google.com/store/apps/details?id=com.lukyvero.yasstv",
   "shareUrl": "https://play.google.com/store/apps/details?id=com.lukyvero.yasstv",
-  "privacyPolicyUrl": "https://sites.google.com/view/yamineyt",
+  "privacyPolicyUrl": "https://sites.google.com/view/LUKYVEROLIVE",
   "supportEmail": "hanabecar5@gmail.com",
   "oneSignal": {
     "enabled": true,
@@ -48,7 +48,7 @@
         "enabled": true,
         "showOnContentClick": true,
         "showOnFirstClick": true,
-        "everyNClicks": 3,
+        "everyNClicks": 6,
         "loadTimeoutSeconds": 5,
         "preloadOnSplash": true,
         "requireReadyBeforeEnter": true,
