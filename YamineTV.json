@@ -37,7 +37,7 @@
     "consentEnabled": true,
     "tagForChildDirectedTreatment": false,
     "tagForUnderAgeOfConsent": false,
-    "primaryNetwork": "admob",
+    "primaryNetwork": "ironSourceLevelPlay",
     "fallbackNetwork": "ironSourceLevelPlay",
     "routing": {
       "admobPrimaryEnabled": true,
@@ -48,7 +48,7 @@
         "enabled": true,
         "showOnContentClick": true,
         "showOnFirstClick": true,
-        "everyNClicks": 6,
+        "everyNClicks": 3,
         "loadTimeoutSeconds": 5,
         "preloadOnSplash": true,
         "requireReadyBeforeEnter": true,
@@ -163,13 +163,13 @@
     }
   },
   "socialLinks": {
-    "whatsappEnabled": false,
+    "whatsappEnabled": true,
     "whatsappUrl": "https://whatsapp.com/channel/0029Vb91zwxBadmUqBZUtO16",
-    "telegramEnabled": false,
+    "telegramEnabled": true,
     "telegramUrl": "https://t.me/Ilyas_tv_live"
   },
   "telegramJoinPopup": {
-    "enabled": false,
+    "enabled": true,
     "showOnLaunch": true,
     "showOncePerCampaign": true,
     "campaignId": "telegram-channel-v1",
