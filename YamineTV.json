@@ -33,7 +33,7 @@
   },
   "ads": {
     "enabled": true,
-    "testMode": true,
+    "testMode": false,
     "consentEnabled": true,
     "tagForChildDirectedTreatment": false,
     "tagForUnderAgeOfConsent": false,
