@@ -37,7 +37,7 @@
     "consentEnabled": true,
     "tagForChildDirectedTreatment": false,
     "tagForUnderAgeOfConsent": false,
-    "primaryNetwork": "ironSourceLevelPlay",
+    "primaryNetwork": "admob",
     "fallbackNetwork": "ironSourceLevelPlay",
     "routing": {
       "admobPrimaryEnabled": true,
@@ -96,13 +96,13 @@
     "networks": {
       "admob": {
         "enabled": true,
-        "appId": "ca-app-pub-3940256099942544~3347511713",
+        "appId": "ca-app-pub-2722622439616587~8235114551",
         "adUnits": {
-          "interstitial": "",
-          "banner": "",
-          "native": "",
-          "appOpen": "",
-          "rewarded": ""
+          "interstitial": "ca-app-pub-2722622439616587/1469647220",
+          "banner": "ca-app-pub-2722622439616587/4592392175",
+          "native": "ca-app-pub-2722622439616587/1966228834",
+          "appOpen": "ca-app-pub-2722622439616587/9492355906",
+          "rewarded": "ca-app-pub-2722622439616587/3279310509"
         }
       },
       "meta": {
