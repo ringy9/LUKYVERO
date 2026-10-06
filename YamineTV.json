@@ -48,7 +48,7 @@
         "enabled": true,
         "showOnContentClick": true,
         "showOnFirstClick": true,
-        "everyNClicks": 3,
+        "everyNClicks": 6,
         "loadTimeoutSeconds": 5,
         "preloadOnSplash": true,
         "requireReadyBeforeEnter": true,
