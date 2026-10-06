@@ -317,8 +317,8 @@
       {
         "nameAr": "سيرفر الجزائر ضد النيجر",
         "nameEn": "Algeria vs Niger server",
-        "url": "ضع_رابط_بث_مباراة_الجزائر_هنا",
-        "type": "m3u8",
+        "url": "https://www.youtube.com/watch?v=UpYuhNl4lrA",
+        "type": "youtube",
         "user_agent": "Mozilla/5.0",
         "referer": "",
         "origin": "",
