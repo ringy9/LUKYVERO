@@ -325,7 +325,24 @@
         "cookie": ""
       }
     ]
-  }
+  },
+   {
+  "fixtureId": 1644165,
+  "playerMode": "external",
+  "thumbnailUrl": "https://raw.githubusercontent.com/ringy9/yamine.yt/main/thumbnail.png",
+  "sources": [
+    {
+      "nameAr": "سيرفر السعودية ضد الإمارات",
+      "nameEn": "Saudi Arabia vs UAE server",
+      "url": "https://youtu.be/rAhj_UZorv8",
+      "type": "youtube",
+      "user_agent": "Mozilla/5.0",
+      "referer": "",
+      "origin": "",
+      "cookie": ""
+    }
+  ]
+}
  
   ],
   "highlights": [
