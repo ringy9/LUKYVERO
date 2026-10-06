@@ -274,7 +274,7 @@
     12,
     13
   ],
-  "streams": [
+ "streams": [
   {
     "fixtureId": 0,
     "playerMode": "external",
@@ -293,15 +293,32 @@
     ]
   },
   {
-    "fixtureId": 1570400,
+    "fixtureId": 1640081,
     "playerMode": "external",
     "thumbnailUrl": "https://raw.githubusercontent.com/ringy9/yamine.yt/main/thumbnail.png",
     "sources": [
       {
-        "nameAr": "سيرفر برشلونة",
-        "nameEn": "Barcelona server",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "mp4",
+        "nameAr": "سيرفر الأردن ضد فنزويلا",
+        "nameEn": "Jordan vs Venezuela server",
+        "url": "https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8",
+        "type": "m3u8",
+        "user_agent": "Mozilla/5.0",
+        "referer": "",
+        "origin": "",
+        "cookie": ""
+      }
+    ]
+  },
+  {
+    "fixtureId": 1640082,
+    "playerMode": "external",
+    "thumbnailUrl": "https://raw.githubusercontent.com/ringy9/yamine.yt/main/thumbnail.png",
+    "sources": [
+      {
+        "nameAr": "سيرفر الجزائر ضد النيجر",
+        "nameEn": "Algeria vs Niger server",
+        "url": "ضع_رابط_بث_مباراة_الجزائر_هنا",
+        "type": "m3u8",
         "user_agent": "Mozilla/5.0",
         "referer": "",
         "origin": "",
@@ -309,6 +326,7 @@
       }
     ]
   }
+ 
   ],
   "highlights": [
     {
