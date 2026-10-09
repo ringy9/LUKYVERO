@@ -10,7 +10,7 @@
   "supportEmail": "hanabecar5@gmail.com",
   "oneSignal": {
     "enabled": true,
-    "appId": "404babad-10e9-4b12-920c-c6663a59fd00",
+    "appId": "2e1abb13-8562-47e5-94ac-bdf5d65f075f",
     "requestPermissionOnLaunch": true,
     "permissionPromptDelaySeconds": 5
   },
