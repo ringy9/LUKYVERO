@@ -333,11 +333,52 @@
       "referer": "",
       "origin": "",
       "cookie": ""
-    },
-        {
-      "nameAr": "سيرفر أرسنال ضد ليدز يونايتد",
-      "nameEn": "Arsenal vs Leeds United server",
-      "url": "http://h29.roadboost.buzz/live/918454578001/index.m3u8?t=3WIcLpS-flTHqcB6PmGF1w&e=1791651184",
+    }
+  ]
+},
+   {
+  "fixtureId": 1557425,
+  "playerMode": "external",
+  "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
+  "sources": [
+    {
+      "nameAr": "سيرفر مانشستر يونايتد ضد توتنهام",
+      "nameEn": "Manchester United vs Tottenham server",
+      "url": "https://cdn.gamhed.online/hls/bein1.m3u8",
+      "type": "m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referer": "",
+      "origin": "",
+      "cookie": ""
+    }
+  ]
+},
+   {
+  "fixtureId": 1570404,
+  "playerMode": "external",
+  "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
+  "sources": [
+    {
+      "nameAr": "سيرفر برشلونة ضد خيتافي",
+      "nameEn": "Barcelona vs Getafe server",
+      "url": "https://cdn.gamhed.online/hls/bein1.m3u8",
+      "type": "m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referer": "",
+      "origin": "",
+      "cookie": ""
+    }
+  ]
+},
+   {
+  "fixtureId": 1570411,
+  "playerMode": "external",
+  "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
+  "sources": [
+    {
+      "nameAr": "سيرفر ريال مدريد ضد فياريال",
+      "nameEn": "Real Madrid vs Villarreal server",
+      "url": "https://cdn.gamhed.online/hls/bein1.m3u8",
       "type": "m3u8",
       "user_agent": "Mozilla/5.0",
       "referer": "",
