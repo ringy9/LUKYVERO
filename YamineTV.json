@@ -343,14 +343,14 @@
     }
   ]
 },
-   {
-  "fixtureId": 1528952,
+{
+  "fixtureId": 1557417,
   "playerMode": "external",
   "thumbnailUrl": "https://raw.githubusercontent.com/ringy9/yamine.yt/main/thumbnail.png",
   "sources": [
     {
-      "nameAr": "سيرفر كرواتيا ضد إسبانيا",
-      "nameEn": "Croatia vs Spain server",
+      "nameAr": "سيرفر أرسنال ضد ليدز يونايتد",
+      "nameEn": "Arsenal vs Leeds United server",
       "url": "https://cdn.gamhed.online/hls/bein1.m3u8",
       "type": "m3u8",
       "user_agent": "Mozilla/5.0",
