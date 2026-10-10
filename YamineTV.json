@@ -295,90 +295,12 @@
 {
   "fixtureId": 1557419,
   "playerMode": "external",
-  "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/Chelsea%20vs%20Bournemouth_%20Premier%20League%20Showdown.png?raw=true",
+  "thumbnailUrl": "https://raw.githubusercontent.com/ringy9/yamine.yt/main/thumbnail.png",
   "sources": [
     {
       "nameAr": "السيرفر 1",
       "nameEn": "Server 1",
-      "url": "https://cdn.gamhed.online/hls/bein1.m3u8",
-      "type": "m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referer": "",
-      "origin": "",
-      "cookie": ""
-    },
-    {
-      "nameAr": "السيرفر 2",
-      "nameEn": "Server 2",
-      "url": "http://h29.roadboost.buzz/live/918454578001/index.m3u8?t=3WIcLpS-flTHqcB6PmGF1w&e=1791651184",
-      "type": "m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referer": "",
-      "origin": "",
-      "cookie": ""
-    }
-  ]
-},
-{
-  "fixtureId": 1557417,
-  "playerMode": "external",
-  "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
-  "sources": [
-    {
-      "nameAr": "سيرفر أرسنال ضد ليدز يونايتد",
-      "nameEn": "Arsenal vs Leeds United server",
-      "url": "https://cdn.gamhed.online/hls/bein1.m3u8",
-      "type": "m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referer": "",
-      "origin": "",
-      "cookie": ""
-    }
-  ]
-},
-   {
-  "fixtureId": 1557425,
-  "playerMode": "external",
-  "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
-  "sources": [
-    {
-      "nameAr": "سيرفر مانشستر يونايتد ضد توتنهام",
-      "nameEn": "Manchester United vs Tottenham server",
-      "url": "https://cdn.gamhed.online/hls/bein1.m3u8",
-      "type": "m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referer": "",
-      "origin": "",
-      "cookie": ""
-    }
-  ]
-},
-   {
-  "fixtureId": 1570404,
-  "playerMode": "external",
-  "thumbnailUrl": "https://github.com/ringy9/BEIN/blob/main/Getafe%20vs%20Barcelona%20Night%20Showdown.png?raw=true",
-  "sources": [
-    {
-      "nameAr": "سيرفر برشلونة ضد خيتافي",
-      "nameEn": "Barcelona vs Getafe server",
-      "url": "https://cdn.gamhed.online/hls/bein2.m3u8",
-      "type": "m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referer": "",
-      "origin": "",
-      "cookie": ""
-    }
-  ]
-},
-   {
-  "fixtureId": 1570411,
-  "playerMode": "external",
-  "thumbnailUrl": "https://github.com/ringy9/BEIN/blob/main/Real%20Madrid%20vs%20Villarreal_%20Champions%20Night.png?raw=true",
-  "sources": [
-    {
-      "nameAr": "سيرفر ريال مدريد ضد فياريال",
-      "nameEn": "Real Madrid vs Villarreal server",
-      "url": "https://cdn.gamhed.online/hls/bein2.m3u8",
+      "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
       "type": "m3u8",
       "user_agent": "Mozilla/5.0",
       "referer": "",
@@ -387,6 +309,7 @@
     }
   ]
 }
+
  
   ],
   "highlights": [
