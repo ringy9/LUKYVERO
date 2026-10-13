@@ -118,13 +118,13 @@
       },
       "ironSourceLevelPlay": {
         "enabled": true,
-        "appKey": "2823163d5",
+        "appKey": "",
         "adUnits": {
-          "interstitial": "n6pxrezl1fbq7x4v",
-          "banner": "2cnaujic4mcx0999",
-          "native": "6wn3ees4mi9xtub6",
+          "interstitial": "",
+          "banner": "",
+          "native": "",
           "appOpen": "",
-          "rewarded": "845b4vblo0fq2tyu"
+          "rewarded": ""
         }
       },
       "liftoffVungle": {
