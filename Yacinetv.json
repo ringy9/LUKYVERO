@@ -98,12 +98,13 @@
         "enabled": true,
         "appId": "ca-app-pub-3940256099942544~3347511713",
         "adUnits": {
-          "interstitial": "",
-          "banner": "",
-          "native": "",
-          "appOpen": "",
-          "rewarded": ""
+          "interstitial": "ca-app-pub-3940256099942544/1033173712",
+          "banner": "ca-app-pub-3940256099942544/6300978111",
+          "native": "ca-app-pub-3940256099942544/2247696110",
+          "appOpen": "ca-app-pub-3940256099942544/9257395921",
+          "rewarded": "ca-app-pub-3940256099942544/5224354917"
         }
+
       },
       "meta": {
         "enabled": true,
@@ -118,14 +119,15 @@
       },
       "ironSourceLevelPlay": {
         "enabled": true,
-        "appKey": "",
+        "appKey": "2823163d5",
         "adUnits": {
-          "interstitial": "",
-          "banner": "",
-          "native": "",
+          "interstitial": "n6pxrezl1fbq7x4v",
+          "banner": "2cnaujic4mcx0999",
+          "native": "6wn3ees4mi9xtub6",
           "appOpen": "",
-          "rewarded": ""
+          "rewarded": "845b4vblo0fq2tyu"
         }
+
       },
       "liftoffVungle": {
         "enabled": true,
