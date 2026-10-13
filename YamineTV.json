@@ -292,21 +292,123 @@
       }
     ]
   },
-{
-  "fixtureId": 1557424,
-  "playerMode": "external",
-  "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
-  "sources": [
-    {
-      "nameAr": "سيرفر ليفربول ضد مانشستر سيتي",
-      "nameEn": "Liverpool vs Manchester City server",
-      "url": "https://fra-prod-catalyst-0.lp-playback.studio/hls/video+d7e2p4dybfcep2d3/1_0/index.m3u8?tkn=3121076320",
-      "type": "m3u8",
-      "user_agent": "Mozilla/5.0",
-      "referer": "",
-      "origin": "",
-      "cookie": ""
-    }
+  {
+    "fixtureId": 1635612,
+    "playerMode": "external",
+    "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
+    "sources": [
+      {
+        "nameAr": "سيرفر أرسنال ضد ليل",
+        "nameEn": "Arsenal vs Lille server",
+        "url": "http://h32.framecrest.buzz/live/9787488847/index.m3u8?t=HCZv0Ag-Y64QnRig2V8hjg&e=1791933977",
+        "type": "m3u8",
+        "user_agent": "Mozilla/5.0",
+        "referer": "",
+        "origin": "",
+        "cookie": ""
+      }
+    ]
+  },
+  {
+    "fixtureId": 1635623,
+    "playerMode": "external",
+    "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
+    "sources": [
+      {
+        "nameAr": "سيرفر أتلتيكو مدريد ضد مانشستر يونايتد",
+        "nameEn": "Atletico Madrid vs Manchester United server",
+        "url": "http://h35.cloudlenix.lol/live/610303030/index.m3u8?t=t5hN8LEB4KE4ggdg-qsgwA&e=1791933998",
+        "type": "m3u8",
+        "user_agent": "Mozilla/5.0",
+        "referer": "",
+        "origin": "",
+        "cookie": ""
+      }
+    ]
+  },
+  {
+    "fixtureId": 1635666,
+    "playerMode": "external",
+    "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
+    "sources": [
+      {
+        "nameAr": "سيرفر غلطة سراي ضد برشلونة",
+        "nameEn": "Galatasaray vs Barcelona server",
+        "url": "http://h46.nodeoryn.buzz/live/918454578001/index.m3u8?t=qYgHqjOSRbFkjQ5Ydp6_tQ&e=1791933793",
+        "type": "m3u8",
+        "user_agent": "Mozilla/5.0",
+        "referer": "",
+        "origin": "",
+        "cookie": ""
+      }
+    ]
+  },
+  {
+    "fixtureId": 1635671,
+    "playerMode": "external",
+    "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
+    "sources": [
+      {
+        "nameAr": "سيرفر إنتر ميلان ضد كلوب بروج",
+        "nameEn": "Inter Milan vs Club Brugge server",
+        "url": "http://h51.relaylume.buzz/live/1515000000/index.m3u8?t=xHRVI3M3byHl306JvPwytw&e=1791934024",
+        "type": "m3u8",
+        "user_agent": "Mozilla/5.0",
+        "referer": "",
+        "origin": "",
+        "cookie": ""
+      }
+    ]
+  },
+  {
+    "fixtureId": 1635711,
+    "playerMode": "external",
+    "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
+    "sources": [
+      {
+        "nameAr": "سيرفر لايبزيغ ضد آيندهوفن",
+        "nameEn": "RB Leipzig vs PSV Eindhoven server",
+        "url": "http://h33.frameglide.buzz/live/33523510/index.m3u8?t=uRZ3Cc9nNDimWvEj7r795g&e=1791934064",
+        "type": "m3u8",
+        "user_agent": "Mozilla/5.0",
+        "referer": "",
+        "origin": "",
+        "cookie": ""
+      }
+    ]
+  },
+  {
+    "fixtureId": 1635742,
+    "playerMode": "external",
+    "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
+    "sources": [
+      {
+        "nameAr": "سيرفر فايكينغ ضد بايرن ميونخ",
+        "nameEn": "Viking vs Bayern Munich server",
+        "url": "http://h33.frameglide.buzz/live/33523510/index.m3u8?t=uRZ3Cc9nNDimWvEj7r795g&e=1791934064",
+        "type": "m3u8",
+        "user_agent": "Mozilla/5.0",
+        "referer": "",
+        "origin": "",
+        "cookie": ""
+      }
+    ]
+  },
+  {
+    "fixtureId": 1635748,
+    "playerMode": "external",
+    "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
+    "sources": [
+      {
+        "nameAr": "سيرفر فياريال ضد نابولي",
+        "nameEn": "Villarreal vs Napoli server",
+        "url": "http://h33.frameglide.buzz/live/33523510/index.m3u8?t=uRZ3Cc9nNDimWvEj7r795g&e=1791934064",
+        "type": "m3u8",
+        "user_agent": "Mozilla/5.0",
+        "referer": "",
+        "origin": "",
+        "cookie": ""
+      }
   ]
 }
 
