@@ -292,21 +292,157 @@
       }
     ]
   },
-  {
-    "fixtureId": 1635612,
-    "playerMode": "external",
-    "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
-    "sources": [
-      {
-        "nameAr": "سيرفر أرسنال ضد ليل",
-        "nameEn": "Arsenal vs Lille server",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "m3u8",
-        "user_agent": "Mozilla/5.0",
-        "referer": "",
-        "origin": "",
-        "cookie": ""
-      }
+    {
+      "fixtureId": 1635665,
+      "playerMode": "external",
+      "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
+      "sources": [
+        {
+          "nameAr": "سيرفر فينورد ضد كومو",
+          "nameEn": "Feyenoord vs Como server",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "type": "mp4",
+          "user_agent": "Mozilla/5.0",
+          "referer": "",
+          "origin": "",
+          "cookie": ""
+        }
+      ]
+    },
+    {
+      "fixtureId": 1635674,
+      "playerMode": "external",
+      "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/LiverpoolvsLASK.png?raw=true",
+      "sources": [
+        {
+          "nameAr": "سيرفر لاسك ضد ليفربول",
+          "nameEn": "LASK vs Liverpool server",
+          "url": "http://h38.castmeris.lol/live/69854211/index.m3u8?t=0rd9q6djXbJfpRLLYCJ9bA&e=1792014106",
+          "type": "mp4",
+          "user_agent": "Mozilla/5.0",
+          "referer": "",
+          "origin": "",
+          "cookie": ""
+        }
+      ]
+    },
+    {
+      "fixtureId": 1635620,
+      "playerMode": "external",
+      "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
+      "sources": [
+        {
+          "nameAr": "سيرفر أستون فيلا ضد فنربخشة",
+          "nameEn": "Aston Villa vs Fenerbahce server",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "type": "mp4",
+          "user_agent": "Mozilla/5.0",
+          "referer": "",
+          "origin": "",
+          "cookie": ""
+        }
+      ]
+    },
+    {
+      "fixtureId": 1635639,
+      "playerMode": "external",
+      "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
+      "sources": [
+        {
+          "nameAr": "سيرفر بودو غليمت ضد بوروسيا دورتموند",
+          "nameEn": "Bodo Glimt vs Borussia Dortmund server",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "type": "mp4",
+          "user_agent": "Mozilla/5.0",
+          "referer": "",
+          "origin": "",
+          "cookie": ""
+        }
+      ]
+    },
+    {
+      "fixtureId": 1635690,
+      "playerMode": "external",
+      "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
+      "sources": [
+        {
+          "nameAr": "سيرفر مانشستر سيتي ضد باريس سان جيرمان",
+          "nameEn": "Manchester City vs PSG server",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "type": "mp4",
+          "user_agent": "Mozilla/5.0",
+          "referer": "",
+          "origin": "",
+          "cookie": ""
+        }
+      ]
+    },
+    {
+      "fixtureId": 1635635,
+      "playerMode": "external",
+      "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
+      "sources": [
+        {
+          "nameAr": "سيرفر ريال بيتيس ضد بورتو",
+          "nameEn": "Real Betis vs FC Porto server",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "type": "mp4",
+          "user_agent": "Mozilla/5.0",
+          "referer": "",
+          "origin": "",
+          "cookie": ""
+        }
+      ]
+    },
+    {
+      "fixtureId": 1635614,
+      "playerMode": "external",
+      "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
+      "sources": [
+        {
+          "nameAr": "سيرفر روما ضد ريال مدريد",
+          "nameEn": "Roma vs Real Madrid server",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "type": "mp4",
+          "user_agent": "Mozilla/5.0",
+          "referer": "",
+          "origin": "",
+          "cookie": ""
+        }
+      ]
+    },
+    {
+      "fixtureId": 1635725,
+      "playerMode": "external",
+      "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
+      "sources": [
+        {
+          "nameAr": "سيرفر شاختار دونيتسك ضد أيك أثينا",
+          "nameEn": "Shakhtar Donetsk vs AEK Athens server",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "type": "mp4",
+          "user_agent": "Mozilla/5.0",
+          "referer": "",
+          "origin": "",
+          "cookie": ""
+        }
+      ]
+    },
+    {
+      "fixtureId": 1635733,
+      "playerMode": "external",
+      "thumbnailUrl": "https://github.com/ringy9/LUKYVERO/blob/main/urlthumbnail.png?raw=true",
+      "sources": [
+        {
+          "nameAr": "سيرفر سلوفان براتيسلافا ضد شتوتغارت",
+          "nameEn": "Slovan Bratislava vs Stuttgart server",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "type": "mp4",
+          "user_agent": "Mozilla/5.0",
+          "referer": "",
+          "origin": "",
+          "cookie": ""
+        }
     ]
   }
 
