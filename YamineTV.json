@@ -292,21 +292,21 @@
       }
     ]
   },
+{
+  "fixtureId": 1570413,
+  "playerMode": "external",
+  "thumbnailUrl": "https://raw.githubusercontent.com/ringy9/yamine.yt/main/thumbnail.png",
+  "sources": [
     {
-      "fixtureId": 1635665,
-      "playerMode": "external",
-      "thumbnailUrl": "https://raw.githubusercontent.com/ringy9/yamine.yt/main/thumbnail.png",
-      "sources": [
-        {
-          "nameAr": "سيرفر فينورد ضد كومو",
-          "nameEn": "Feyenoord vs Como server",
-          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-          "type": "mp4",
-          "user_agent": "Mozilla/5.0",
-          "referer": "",
-          "origin": "",
-          "cookie": ""
-        }
+      "nameAr": "سيرفر ريال بيتيس ضد برشلونة",
+      "nameEn": "Real Betis vs Barcelona server",
+      "url": "https://live.notioncraft.studio/channel1/index.m3u8",
+      "type": "mp4",
+      "user_agent": "Mozilla/5.0",
+      "referer": "",
+      "origin": "",
+      "cookie": ""
+    }
       ]
     }
 
