@@ -290,74 +290,7 @@
         "origin": "",
         "cookie": ""
       }
-    ]
-  },
-  {
-    "fixtureId": 1603063,
-    "playerMode": "external",
-    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/YAMINETV.png?raw=true",
-    "sources": [
-      {
-        "nameAr": "سيرفر الفيصلي ضد النصر",
-        "nameEn": "Al-Faisaly vs Al-Nassr server",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
-        "type": "m3u8",
-        "user_agent": "Mozilla/5.0",
-        "referer": "",
-        "origin": "",
-        "cookie": ""
-      }
-    ]
-  },
-  {
-    "fixtureId": 1603066,
-    "playerMode": "external",
-    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/YAMINETV.png?raw=true",
-    "sources": [
-      {
-        "nameAr": "سيرفر الاتحاد ضد الدرعية",
-        "nameEn": "Al-Ittihad vs Al-Diriyah server",
-        "url": "https://live.notioncraft.studio/bein3/index.m3u8",
-        "type": "m3u8",
-        "user_agent": "Mozilla/5.0",
-        "referer": "",
-        "origin": "",
-        "cookie": ""
-      }
-    ]
-  },
-  {
-    "fixtureId": 1603062,
-    "playerMode": "external",
-    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/YAMINETV.png?raw=true",
-    "sources": [
-      {
-        "nameAr": "سيرفر الأهلي ضد الخليج",
-        "nameEn": "Al-Ahli vs Al-Khaleej server",
-        "url": "https://live.notioncraft.studio/bein2/index.m3u8",
-        "type": "m3u8",
-        "user_agent": "Mozilla/5.0",
-        "referer": "",
-        "origin": "",
-        "cookie": ""
-      }
-    ]
-  },
-  {
-    "fixtureId": 1603068,
-    "playerMode": "external",
-    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/YAMINETV.png?raw=true",
-    "sources": [
-      {
-        "nameAr": "سيرفر القادسية ضد الهلال",
-        "nameEn": "Al-Qadisiyah vs Al-Hilal server",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
-        "type": "m3u8",
-        "user_agent": "Mozilla/5.0",
-        "referer": "",
-        "origin": "",
-        "cookie": ""
-      }
+
 
       ]
     }
