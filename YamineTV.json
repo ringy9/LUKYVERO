@@ -300,41 +300,7 @@
       {
         "nameAr": "سيرفر أستون فيلا ضد مانشستر سيتي",
         "nameEn": "Aston Villa vs Manchester City server",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
-        "type": "m3u8",
-        "user_agent": "Mozilla/5.0",
-        "referer": "",
-        "origin": "",
-        "cookie": ""
-      }
-    ]
-  },
-  {
-    "fixtureId": 1557437,
-    "playerMode": "external",
-    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/YAMINETV.png?raw=true",
-    "sources": [
-      {
-        "nameAr": "سيرفر أرسنال ضد إيفرتون",
-        "nameEn": "Arsenal vs Everton server",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
-        "type": "m3u8",
-        "user_agent": "Mozilla/5.0",
-        "referer": "",
-        "origin": "",
-        "cookie": ""
-      }
-    ]
-  },
-  {
-    "fixtureId": 1557439,
-    "playerMode": "external",
-    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/YAMINETV.png?raw=true",
-    "sources": [
-      {
-        "nameAr": "سيرفر تشيلسي ضد توتنهام",
-        "nameEn": "Chelsea vs Tottenham server",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
         "type": "m3u8",
         "user_agent": "Mozilla/5.0",
         "referer": "",
