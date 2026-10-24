@@ -96,13 +96,13 @@
     "networks": {
       "admob": {
         "enabled": true,
-        "appId": "ca-app-pub-2722622439616587~8235114551",
+        "appId": "ca-app-pub-9297113109682195~2052263825",
         "adUnits": {
-          "interstitial": "ca-app-pub-2722622439616587/1469647220",
-          "banner": "ca-app-pub-2722622439616587/4592392175",
-          "native": "ca-app-pub-2722622439616587/1966228834",
-          "appOpen": "ca-app-pub-2722622439616587/9492355906",
-          "rewarded": "ca-app-pub-2722622439616587/3279310509"
+          "interstitial": "ca-app-pub-9297113109682195/3931699586",
+          "banner": "ca-app-pub-9297113109682195/4653754311",
+          "native": "ca-app-pub-9297113109682195/9300324768",
+          "appOpen": "ca-app-pub-9297113109682195/6614325366",
+          "rewarded": "ca-app-pub-9297113109682195/8969025965"
         }
       },
       "meta": {
