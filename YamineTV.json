@@ -292,40 +292,7 @@
            }
     ]
   },
- {
-    "fixtureId": 1570426,
-    "playerMode": "external",
-    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/El%20Cl%C3%A1sico_%20Madrid%20vs%20Barcelona.png?raw=true",
-    "sources": [
-      {
-        "nameAr": "سيرفر برشلونة ضد ريال مدريد",
-        "nameEn": "Barcelona vs Real Madrid server",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
-        "type": "m3u8",
-        "user_agent": "Mozilla/5.0",
-        "referer": "",
-        "origin": "",
-        "cookie": ""
-      }
-    ]
-  },
-  {
-    "fixtureId": 1557445,
-    "playerMode": "external",
-    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/YAMINETV.png?raw=true",
-    "sources": [
-      {
-        "nameAr": "سيرفر مانشستر يونايتد ضد بورنموث",
-        "nameEn": "Manchester United vs Bournemouth server",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
-        "type": "m3u8",
-        "user_agent": "Mozilla/5.0",
-        "referer": "",
-        "origin": "",
-        "cookie": ""
-      }
-    ]
-  },
+
   {
     "fixtureId": 1557444,
     "playerMode": "external",
@@ -334,7 +301,7 @@
       {
         "nameAr": "سيرفر ليفربول ضد برايتون",
         "nameEn": "Liverpool vs Brighton server",
-        "url": "https://live.notioncraft.studio/bein2/index.m3u8",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
         "type": "m3u8",
         "user_agent": "Mozilla/5.0",
         "referer": "",
