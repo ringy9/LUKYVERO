@@ -293,21 +293,21 @@
     ]
   },
 
-  {
-    "fixtureId": 1557444,
-    "playerMode": "external",
-    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/YAMINETV.png?raw=true",
-    "sources": [
-      {
-        "nameAr": "سيرفر ليفربول ضد برايتون",
-        "nameEn": "Liverpool vs Brighton server",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "m3u8",
-        "user_agent": "Mozilla/5.0",
-        "referer": "",
-        "origin": "",
-        "cookie": ""
-      }
+{
+  "fixtureId": 1570434,
+  "playerMode": "external",
+  "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
+  "sources": [
+    {
+      "nameAr": "سيرفر برشلونة ضد ألافيس",
+      "nameEn": "Barcelona vs Alaves server",
+      "url": "https://live.notioncraft.studio/bein1/index.m3u8",
+      "type": "m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referer": "",
+      "origin": "",
+      "cookie": ""
+    }
 
       ]
     }
