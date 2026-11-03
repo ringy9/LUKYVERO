@@ -301,7 +301,7 @@
       {
         "nameAr": "سيرفر غلطة سراي ضد شتوتغارت",
         "nameEn": "Galatasaray vs Stuttgart server",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
+        "url": "https://live.notioncraft.studio/bein3/index.m3u8",
         "type": "m3u8",
         "user_agent": "Mozilla/5.0",
         "referer": "",
@@ -335,7 +335,7 @@
       {
         "nameAr": "سيرفر أتلتيكو مدريد ضد بايرن ميونخ",
         "nameEn": "Atletico Madrid vs Bayern Munich server",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
+        "url": "https://live.notioncraft.studio/bein5/index.m3u8",
         "type": "m3u8",
         "user_agent": "Mozilla/5.0",
         "referer": "",
@@ -386,7 +386,7 @@
       {
         "nameAr": "سيرفر فينورد ضد إنتر ميلان",
         "nameEn": "Feyenoord vs Inter Milan server",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
+        "url": "https://live.notioncraft.studio/bein8/index.m3u8",
         "type": "m3u8",
         "user_agent": "Mozilla/5.0",
         "referer": "",
@@ -420,7 +420,7 @@
       {
         "nameAr": "سيرفر مانشستر يونايتد ضد روما",
         "nameEn": "Manchester United vs Roma server",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
+        "url": "https://live.notioncraft.studio/bein4/index.m3u8",
         "type": "m3u8",
         "user_agent": "Mozilla/5.0",
         "referer": "",
@@ -437,7 +437,7 @@
       {
         "nameAr": "سيرفر فياريال ضد باريس سان جيرمان",
         "nameEn": "Villarreal vs Paris Saint-Germain server",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
+        "url": "https://live.notioncraft.studio/bein3/index.m3u8",
         "type": "m3u8",
         "user_agent": "Mozilla/5.0",
         "referer": "",
