@@ -301,7 +301,7 @@
       {
         "nameAr": "سيرفر أيك أثينا ضد ريال مدريد",
         "nameEn": "AEK Athens vs Real Madrid server",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
+        "url": "https://live.notioncraft.studio/bein2/index.m3u8",
         "type": "m3u8",
         "user_agent": "Mozilla/5.0",
         "referer": "",
@@ -318,7 +318,7 @@
       {
         "nameAr": "سيرفر فنربخشة ضد ليفربول",
         "nameEn": "Fenerbahce vs Liverpool server",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
+        "url": "https://live.notioncraft.studio/bein4/index.m3u8",
         "type": "m3u8",
         "user_agent": "Mozilla/5.0",
         "referer": "",
@@ -335,7 +335,7 @@
       {
         "nameAr": "سيرفر بوروسيا دورتموند ضد ريال بيتيس",
         "nameEn": "Borussia Dortmund vs Real Betis server",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
+        "url": "https://live.notioncraft.studio/bein5/index.m3u8",
         "type": "m3u8",
         "user_agent": "Mozilla/5.0",
         "referer": "",
@@ -403,7 +403,7 @@
       {
         "nameAr": "سيرفر لايبزيغ ضد مانشستر سيتي",
         "nameEn": "RB Leipzig vs Manchester City server",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
+        "url": "https://live.notioncraft.studio/bein3/index.m3u8",
         "type": "m3u8",
         "user_agent": "Mozilla/5.0",
         "referer": "",
