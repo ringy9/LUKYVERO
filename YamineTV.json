@@ -278,7 +278,7 @@
   {
     "fixtureId": 0,
     "playerMode": "external",
-    "thumbnailUrl": "https://raw.githubusercontent.com/ringy9/yamine.yt/main/thumbnail.png",
+    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
     "sources": [
       {
         "nameAr": "السيرفر الافتراضي",
@@ -296,154 +296,19 @@
   {
     "fixtureId": 1635606,
     "playerMode": "external",
-    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/YAMINE%20TV%20Champions%20League%20Night.png?raw=true",
+    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
     "sources": [
       {
         "nameAr": "سيرفر أيك أثينا ضد ريال مدريد",
         "nameEn": "AEK Athens vs Real Madrid server",
-        "url": "https://live.notioncraft.studio/bein2/index.m3u8",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
         "type": "m3u8",
         "user_agent": "Mozilla/5.0",
         "referer": "",
         "origin": "",
         "cookie": ""
       }
-    ]
-  },
-  {
-    "fixtureId": 1635658,
-    "playerMode": "external",
-    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/YAMINE%20TV%20Champions%20League%20Night.png?raw=true",
-    "sources": [
-      {
-        "nameAr": "سيرفر فنربخشة ضد ليفربول",
-        "nameEn": "Fenerbahce vs Liverpool server",
-        "url": "https://2cdn.syria-player.info/proxy.php?stream=YmVpbjQvNzIwcC9tYW5pZmVzdC5tM3U4",
-        "type": "m3u8",
-        "user_agent": "Mozilla/5.0",
-        "referer": "",
-        "origin": "",
-        "cookie": ""
-      }
-    ]
-  },
-  {
-    "fixtureId": 1635651,
-    "playerMode": "external",
-    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/YAMINE%20TV%20Champions%20League%20Night.png?raw=true",
-    "sources": [
-      {
-        "nameAr": "سيرفر بوروسيا دورتموند ضد ريال بيتيس",
-        "nameEn": "Borussia Dortmund vs Real Betis server",
-        "url": "https://live.notioncraft.studio/bein5/index.m3u8",
-        "type": "m3u8",
-        "user_agent": "Mozilla/5.0",
-        "referer": "",
-        "origin": "",
-        "cookie": ""
-      }
-    ]
-  },
-  {
-    "fixtureId": 1635656,
-    "playerMode": "external",
-    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/YAMINE%20TV%20Champions%20League%20Night.png?raw=true",
-    "sources": [
-      {
-        "nameAr": "سيرفر بورتو ضد نابولي",
-        "nameEn": "Porto vs Napoli server",
-        "url": "https://live.notioncraft.studio/bein4/index.m3u8",
-        "type": "m3u8",
-        "user_agent": "Mozilla/5.0",
-        "referer": "",
-        "origin": "",
-        "cookie": ""
-      }
-    ]
-  },
-  {
-    "fixtureId": 1635681,
-    "playerMode": "external",
-    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/YAMINE%20TV%20Champions%20League%20Night.png?raw=true",
-    "sources": [
-      {
-        "nameAr": "سيرفر لانس ضد كومو",
-        "nameEn": "Lens vs Como server",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
-        "type": "m3u8",
-        "user_agent": "Mozilla/5.0",
-        "referer": "",
-        "origin": "",
-        "cookie": ""
-      }
-    ]
-  },
-  {
-    "fixtureId": 1635707,
-    "playerMode": "external",
-    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/YAMINE%20TV%20Champions%20League%20Night.png?raw=true",
-    "sources": [
-      {
-        "nameAr": "سيرفر آيندهوفن ضد كلوب بروج",
-        "nameEn": "PSV Eindhoven vs Club Brugge server",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
-        "type": "m3u8",
-        "user_agent": "Mozilla/5.0",
-        "referer": "",
-        "origin": "",
-        "cookie": ""
-      }
-    ]
-  },
-  {
-    "fixtureId": 1635710,
-    "playerMode": "external",
-    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/YAMINE%20TV%20Champions%20League%20Night.png?raw=true",
-    "sources": [
-      {
-        "nameAr": "سيرفر لايبزيغ ضد مانشستر سيتي",
-        "nameEn": "RB Leipzig vs Manchester City server",
-        "url": "https://live.notioncraft.studio/bein3/index.m3u8",
-        "type": "m3u8",
-        "user_agent": "Mozilla/5.0",
-        "referer": "",
-        "origin": "",
-        "cookie": ""
-      }
-    ]
-  },
-  {
-    "fixtureId": 1635726,
-    "playerMode": "external",
-    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/YAMINE%20TV%20Champions%20League%20Night.png?raw=true",
-    "sources": [
-      {
-        "nameAr": "سيرفر سلافيا براغ ضد أرسنال",
-        "nameEn": "Slavia Prague vs Arsenal server",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
-        "type": "m3u8",
-        "user_agent": "Mozilla/5.0",
-        "referer": "",
-        "origin": "",
-        "cookie": ""
-      }
-    ]
-  },
-  {
-    "fixtureId": 1635745,
-    "playerMode": "external",
-    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/YAMINE%20TV%20Champions%20League%20Night.png?raw=true",
-    "sources": [
-      {
-        "nameAr": "سيرفر فايكينغ ضد صباح",
-        "nameEn": "Viking vs Sabah server",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
-        "type": "m3u8",
-        "user_agent": "Mozilla/5.0",
-        "referer": "",
-        "origin": "",
-        "cookie": ""
-      }
+
    
 
       ]
