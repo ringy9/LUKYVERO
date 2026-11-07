@@ -293,21 +293,21 @@
     ]
   },
 
-  {
-    "fixtureId": 1635606,
-    "playerMode": "external",
-    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
-    "sources": [
-      {
-        "nameAr": "سيرفر أيك أثينا ضد ريال مدريد",
-        "nameEn": "AEK Athens vs Real Madrid server",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "m3u8",
-        "user_agent": "Mozilla/5.0",
-        "referer": "",
-        "origin": "",
-        "cookie": ""
-      }
+{
+  "fixtureId": 1570451,
+  "playerMode": "external",
+  "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/YAMINE%20TV%20Champions%20League%20Night.png?raw=true",
+  "sources": [
+    {
+      "nameAr": "سيرفر فالنسيا ضد ريال مدريد",
+      "nameEn": "Valencia vs Real Madrid server",
+      "url": "https://live.notioncraft.studio/bein1/index.m3u8",
+      "type": "m3u8",
+      "user_agent": "Mozilla/5.0",
+      "referer": "",
+      "origin": "",
+      "cookie": ""
+    }
 
    
 
