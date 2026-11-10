@@ -296,12 +296,12 @@
 {
   "fixtureId": 1570443,
   "playerMode": "external",
-  "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/YAMINE%20TV%20Champions%20League%20Night.png?raw=true",
+  "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
   "sources": [
     {
       "nameAr": "سيرفر أتلتيكو مدريد ضد برشلونة",
       "nameEn": "Atletico Madrid vs Barcelona server",
-      "url": "https://live.notioncraft.studio/bein1/index.m3u8",
+      "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
       "type": "m3u8",
       "user_agent": "Mozilla/5.0",
       "referer": "",
