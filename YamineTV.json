@@ -294,14 +294,14 @@
   },
 
 {
-  "fixtureId": 1570443,
+  "fixtureId": 1528984,
   "playerMode": "external",
   "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
   "sources": [
     {
-      "nameAr": "سيرفر أتلتيكو مدريد ضد برشلونة",
-      "nameEn": "Atletico Madrid vs Barcelona server",
-      "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+      "nameAr": "سيرفر إسبانيا ضد إنجلترا",
+      "nameEn": "Spain vs England server",
+      "url": "https://live.notioncraft.studio/bein1/index.m3u8",
       "type": "m3u8",
       "user_agent": "Mozilla/5.0",
       "referer": "",
