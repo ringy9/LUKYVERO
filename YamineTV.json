@@ -1,339 +1,493 @@
 {
-  "configVersion": 63,
-  "appNameAr": "إلياس لايف",
-  "appNameEn": "ILYAS LIVE",
-  "headerLogoUrl": "https://github.com/ringy9/yamine.yt/blob/main/yacine_live_header_logo.png?raw=true",
-  "rateBannerImage": "https://github.com/ringy9/yamine.yt/blob/main/RateUs.png?raw=true",
-  "rateUsUrl": "https://play.google.com/store/apps/details?id=com.lukyvero.yasstv",
-  "shareUrl": "https://play.google.com/store/apps/details?id=com.lukyvero.yasstv",
-  "privacyPolicyUrl": "https://sites.google.com/view/LUKYVEROLIVE",
-  "supportEmail": "hanabecar5@gmail.com",
-  "oneSignal": {
+  "app": {
+    "name": "YSN TV",
+    "name_ar": "YSN TV",
+    "logo": "https://i.imgur.com/YbF6qSw.png",
+    "slogan": "Football Scores, Statistics & News",
+    "onesignal_app_id": "6bd309ba-4295-4546-99d9-f0441e9ff652"
+  },
+  "football_api": {
     "enabled": true,
-    "appId": "a87374ad-dd1c-4066-aeb3-4374c6b42fbb",
-    "requestPermissionOnLaunch": true,
-    "permissionPromptDelaySeconds": 5
-  },
-  "matchNotifications": {
-    "enabled": true,
-    "reminderEnabled": true,
-    "reminderMinutes": 15,
-    "kickoffAlerts": true,
-    "goalAlerts": true,
-    "finalAlerts": true,
-    "maxMatchesPerDay": 20,
-    "leagueIds": [2, 39, 140, 135, 78, 61, 307, 12, 20, 3, 848, 253, 200],
-    "teamIds": [541, 529, 530, 40, 42, 50, 33, 49, 47, 85, 157, 165, 496, 489, 505, 492, 26, 9, 2, 10, 6, 27, 1, 1118, 25, 31, 3]
-  },
-  "newsQuality": {
-    "minimumWords": 120,
-    "maxArticles": 20,
-    "candidateLimit": 36,
-    "requireRealImage": true
-  },
-  "ads": {
-    "enabled": true,
-    "testMode": false,
-    "consentEnabled": true,
-    "tagForChildDirectedTreatment": false,
-    "tagForUnderAgeOfConsent": false,
-    "primaryNetwork": "admob",
-    "fallbackNetwork": "ironSourceLevelPlay",
-    "routing": {
-      "admobPrimaryEnabled": true,
-      "levelPlayFallbackEnabled": true
-    },
-    "formats": {
-      "interstitial": {
-        "enabled": true,
-        "showOnContentClick": true,
-        "showOnFirstClick": true,
-        "everyNClicks": 3,
-        "loadTimeoutSeconds": 5,
-        "preloadOnSplash": true,
-        "requireReadyBeforeEnter": true,
-        "splashMinDurationSeconds": 3,
-        "splashMaxWaitSeconds": 12,
-        "showOnOnboardingComplete": true,
-        "minIntervalSeconds": 0,
-        "maxPerSession": 50
-      },
-      "banner": {
-        "enabled": true,
-        "showOnMainScreens": true,
-        "showOnOnboarding": true
-      },
-      "native": {
-        "enabled": true,
-        "showInMatchesFeed": true,
-        "showInLeaguesFeed": true,
-        "showInFavoritesFeed": true,
-        "showInNewsFeed": true,
-        "showUnderPlayer": true,
-        "showAtTopOfNewsArticle": true,
-        "showInExitDialog": true,
-        "showInMatchCenter": true,
-        "showOnOnboardingFinal": true,
-        "showBeforeFirstItem": true,
-        "insertEveryItems": 6,
-        "maxPerScreen": 10
-      },
-      "appOpen": {
-        "enabled": true,
-        "showOnColdStart": false,
-        "showOnForeground": true,
-        "minBackgroundSeconds": 2,
-        "minIntervalSeconds": 30,
-        "maxPerSession": 20
-      },
-      "rewarded": {
-        "enabled": false,
-        "userInitiatedOnly": true,
-        "unlockPremiumServer": false,
-        "timeoutSeconds": 5
-      }
-    },
-    "networks": {
-      "admob": {
-        "enabled": true,
-        "appId": "ca-app-pub-9297113109682195~2052263825",
-        "adUnits": {
-          "interstitial": "ca-app-pub-9297113109682195/3931699586",
-          "banner": "ca-app-pub-9297113109682195/4653754311",
-          "native": "ca-app-pub-9297113109682195/9300324768",
-          "appOpen": "ca-app-pub-9297113109682195/6614325366",
-          "rewarded": "ca-app-pub-9297113109682195/8969025965"
-        }
-      },
-      "meta": {
-        "enabled": true,
-        "appId": "",
-        "adUnits": {
-          "interstitial": "",
-          "banner": "",
-          "native": "",
-          "appOpen": "",
-          "rewarded": ""
-        }
-      },
-      "ironSourceLevelPlay": {
-        "enabled": true,
-        "appKey": "2823163d5",
-        "adUnits": {
-          "interstitial": "n6pxrezl1fbq7x4v",
-          "banner": "2cnaujic4mcx0999",
-          "native": "6wn3ees4mi9xtub6",
-          "appOpen": "",
-          "rewarded": "845b4vblo0fq2tyu"
-        }
-      },
-      "liftoffVungle": {
-        "enabled": true,
-        "appId": "6aa8e1e807b74064097151b2",
-        "adUnits": {
-          "interstitial": "INTERSTITIAL-5694614",
-          "banner": "BANNER-7824215",
-          "native": "NATIVE-2577828",
-          "appOpen": "APP_OPEN-7844106",
-          "rewarded": "REWARDED-8082793"
-        }
-      },
-      "unityAds": {
-        "enabled": true,
-        "gameId": "6190776",
-        "adUnits": {
-          "interstitial": "Interstitial_Android",
-          "banner": "Banner_Android",
-          "native": "",
-          "appOpen": "",
-          "rewarded": "Rewarded_Android"
-        }
-      },
-      "yandex": {
-        "enabled": true,
-        "appId": "20048759",
-        "adUnits": {
-          "interstitial": "R-M-20048759-3",
-          "banner": "R-M-20048759-1",
-          "native": "R-M-20048759-2",
-          "appOpen": "R-M-20048759-5",
-          "rewarded": "R-M-20048759-4"
-        }
-      }
-    }
-  },
-  "socialLinks": {
-    "whatsappEnabled": true,
-    "whatsappUrl": "https://whatsapp.com/channel/0029Vb91zwxBadmUqBZUtO16",
-    "telegramEnabled": true,
-    "telegramUrl": "https://t.me/Ilyas_tv_live"
-  },
-  "telegramJoinPopup": {
-    "enabled": true,
-    "showOnLaunch": true,
-    "showOncePerCampaign": true,
-    "campaignId": "telegram-channel-v1",
-    "channelUrl": "https://t.me/Ilyas_tv_live",
-    "titleAr": "انضم إلى قناتنا على تيليجرام",
-    "titleEn": "Join our Telegram channel",
-    "messageAr": "تابع آخر أخبار المباريات وروابط المشاهدة والتنبيهات المهمة مباشرة على قناتنا.",
-    "messageEn": "Get the latest match news, viewing links and important alerts directly on our channel.",
-    "joinButtonAr": "انضم الآن",
-    "joinButtonEn": "Join now",
-    "laterButtonAr": "لاحقاً",
-    "laterButtonEn": "Later"
-  },
-  "exitDialog": {
-    "enabled": true,
-    "titleAr": "هل تريد مغادرة التطبيق؟",
-    "titleEn": "Leave Ilyas Live?",
-    "messageAr": "نتمنى أنك استمتعت بالتجربة. يمكنك العودة في أي وقت لمتابعة جديد المباريات.",
-    "messageEn": "We hope you enjoyed the experience. Come back anytime for the latest matches.",
-    "stayAr": "البقاء",
-    "stayEn": "Stay",
-    "exitAr": "خروج",
-    "exitEn": "Exit"
-  },
-  "externalPlayer": {
-    "enabled": true,
-    "useForAllMatches": true,
-    "packageName": "com.ilyas.playerpro",
-    "storeUrl": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
-  },
-  "footballApi": {
-    "enabled": true,
-    "baseUrl": "https://yacine-football-proxy.hamza-ysntv-2026.workers.dev/"
-  },
-  "newsApiUrl": "https://yacine-football-proxy.hamza-ysntv-2026.workers.dev/news",
-  "strongestMatchesCount": 5,
-  "autoRefreshMinutes": 5,
-  "manualRefreshCooldownSeconds": 30,
-  "leaguePriority": [
-    2,
-    39,
-    140,
-    135,
-    78,
-    61,
-    307,
-    12,
-    20,
-    3,
-    848,
-    253,
-    200,
-    15,
-    1,
-    4,
-    17,
-    45,
-    48,
-    143,
-    137,
-    81,
-    66,
-    233,
-    301,
-    383,
-    305,
-    322
-  ],
-  "majorTeamIds": [
-    541,
-    529,
-    530,
-    40,
-    42,
-    50,
-    33,
-    49,
-    47,
-    85,
-    157,
-    165,
-    496,
-    489,
-    505,
-    492,
-    26,
-    9,
-    2,
-    10,
-    6,
-    27,
-    1,
-    1118,
-    25,
-    31,
-    3,
-    768,
-    8,
-    7,
-    2384,
-    16,
-    12,
-    13
-  ],
- "streams": [
-  {
-    "fixtureId": 0,
-    "playerMode": "external",
-    "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
-    "sources": [
-      {
-        "nameAr": "السيرفر الافتراضي",
-        "nameEn": "Default server",
-        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-        "type": "mp4",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": ""
-           }
-    ]
-  },
-
-{
-  "fixtureId": 1528984,
-  "playerMode": "external",
-  "thumbnailUrl": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
-  "sources": [
-    {
-      "nameAr": "سيرفر إسبانيا ضد إنجلترا",
-      "nameEn": "Spain vs England server",
+    "base_url": "https://ysntv-football-proxy.hamza-ysntv-2026.workers.dev",
+    "timezone": "Africa/Casablanca",
+    "season": 2026,
+    "league_ids": [
+      39,
+      140,
+      135,
+      78,
+      61,
+      40,
+      144,
+      94,
+      88,
+      203,
+      307,
+      200,
+      233,
+      186,
+      202,
+      301,
+      305,
+      501,
+      387,
+      330,
+      179,
+      71,
+      128,
+      253,
+      119,
+      103,
+      113,
+      2,
+      3,
+      848,
+      1,
+      15,
+      4,
+      6,
+      13,
+      667,
+      10
+    ],
+    "featured_fixture_ids": [],
+    "strong_team_ids": [
+      33,
+      34,
+      40,
+      42,
+      47,
+      49,
+      50,
+      66,
+      529,
+      530,
+      531,
+      532,
+      533,
+      536,
+      541,
+      543,
+      487,
+      489,
+      492,
+      496,
+      497,
+      499,
+      505,
+      157,
+      165,
+      168,
+      173,
+      79,
+      80,
+      81,
+      85,
+      91
+    ],
+    "strong_team_names": [
+      "Real Madrid",
+      "Barcelona",
+      "Atletico Madrid",
+      "Manchester City",
+      "Manchester United",
+      "Liverpool",
+      "Arsenal",
+      "Chelsea",
+      "Tottenham",
+      "Bayern Munich",
+      "Borussia Dortmund",
+      "Paris Saint Germain",
+      "PSG",
+      "Inter",
+      "AC Milan",
+      "Juventus",
+      "Napoli",
+      "Al-Hilal Saudi FC",
+      "Al-Nassr",
+      "Al-Ittihad FC",
+      "Al-Ahli Jeddah",
+      "Al Ahly",
+      "Zamalek SC",
+      "Wydad AC",
+      "Raja Casablanca",
+      "Esperance Tunis",
+      "Al Ain",
+      "Al Sadd"
+    ],
+    "default_stream": {
+      "enabled": true,
+      "name": "Server 1 m3u8",
       "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
       "type": "m3u8",
-      "user_agent": "Mozilla/5.0",
+      "user_agent": "",
       "referer": "",
       "origin": "",
       "cookie": ""
-    }
-
-   
-
-      ]
+    },
+    "show_only_configured_leagues": true,
+    "live_refresh_seconds": 60,
+    "news_enabled": true,
+    "news_language": "ar",
+    "news_limit": 15,
+    "news_refresh_minutes": 30,
+    "news_default_image": "",
+    "app_token": "",
+    "dynamic_streams_enabled": true,
+    "allow_default_stream_for_all": true,
+    "default_match_image": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true"
+  },
+  "fixture_streams": [
+  {
+    "fixture_id": 1570455,
+    "match_label": "برشلونة ضد فياريال",
+    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
+    "servers": [
+      {
+        "name": "السيرفر 1",
+        "url": "https://cdn-x-1.tofixtv.com/hls/bein1.m3u8",
+        "type": "m3u8"
+      },
+            {
+        "name": "السيرفر 2",
+        "url": "https://ylp.akhbarnewscdn.store/cdn/native/live1/index-timed.m3u8",
+        "type": "m3u8"
+      },
+            {
+        "name": "السيرفر 3",
+        "url": "https://balance.footballii.ir/hls2/bein1.m3u8",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "fixture_id": 1557473,
+    "match_label": "ليفربول ضد مانشستر يونايتد",
+    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
+    "servers": [
+      {
+        "name": "السيرفر 1",
+        "url": "https://cdn-x-1.tofixtv.com/hls/bein1.m3u8",
+        "type": "m3u8"
+      },
+            {
+        "name": "السيرفر 2",
+        "url": "https://ylp.akhbarnewscdn.store/cdn/native/live1/index-timed.m3u8",
+        "type": "mp4"
+      },
+            {
+        "name": "السيرفر 3",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4"
+      }
+    ]
+  }
+],
+  "ads": [
+    {
+      "id": "ad1",
+      "title": "ADS - اعلان",
+      "image": "https://github.com/ringy9/BEIN/blob/main/ratyacine.png?raw=true",
+      "url": "https://play.google.com/store/apps/details?id=com.jeaoapps.ysntv"
     }
   ],
+  "categories": [],
+  "matches": [],
   "highlights": [
     {
       "id": "h1",
-      "titleAr": "أفضل لقطات المباراة — فيديو تجريبي",
-      "titleEn": "Best match moments — demo video",
-      "competition": "Ilyas Live",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=1200",
-      "videoUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-      "videoType": "m3u8",
-      "duration": "08:42"
-    },
-    {
-      "id": "h2",
-      "titleAr": "أجمل الأهداف والفرص — فيديو تجريبي",
-      "titleEn": "Top goals and chances — demo video",
-      "competition": "Highlights",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1553778263-73a83bab9b0c?w=1200",
-      "videoUrl": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
-      "videoType": "youtube",
-      "duration": "10:34"
+      "title": "ملخص | الأهلي 3-1 الزمالك | ديربي القرن",
+      "date": "May 05, 2026",
+      "image": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/thumbnail.jpg",
+      "video_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
     }
-  ]
+  ],
+  "news": [],
+  "update": {
+    "enabled": false,
+    "force_update": false,
+    "latest_version_code": 24,
+    "latest_version_name": "3.10.1",
+    "title": "تحديث جديد متاح!",
+    "message": "يتوفر إصدار جديد من التطبيق يحتوي على تحسينات في الأداء وميزات جديدة. قم بالتحديث الآن للحصول على أفضل تجربة.",
+    "icon": "",
+    "update_button_text": "تحديث الآن",
+    "later_button_text": "لاحقاً",
+    "update_url": "https://play.google.com/store/apps/details?id=com.lukyvero.yasstv",
+    "show_every_launch": false
+  },
+  "exit_dialog": {
+    "enabled": true,
+    "title": "هل تريد الخروج؟",
+    "message": "هل أنت متأكد أنك تريد إغلاق التطبيق؟",
+    "icon": "",
+    "exit_button_text": "خروج",
+    "cancel_button_text": "إلغاء",
+    "show_native_ad": true,
+    "native_ad_network": "meta",
+    "native_ad_fallback_network": "admob"
+  },
+  "ads_config": {
+    "enabled": true,
+    "default_network": "admob",
+    "fallback_network": "admob",
+    "admob": {
+      "enabled": true,
+      "app_id": "ca-app-pub-9297113109682195~2052263825",
+      "banner_id": "ca-app-pub-9297113109682195/4653754311",
+      "interstitial_id": "ca-app-pub-9297113109682195/3931699586",
+      "native_id": "ca-app-pub-9297113109682195/9300324768",
+      "app_open_id": "ca-app-pub-9297113109682195/6614325366",
+      "rewarded_id": ""
+    },
+
+    "max": {
+      "enabled": false,
+      "sdk_key": "YOUR_MAX_SDK_KEY",
+      "banner_id": "YOUR_MAX_BANNER_ID",
+      "interstitial_id": "YOUR_MAX_INTERSTITIAL_ID",
+      "native_id": "YOUR_MAX_NATIVE_ID"
+    },
+    "ironsource": {
+      "enabled": true,
+      "app_key": "2823163d5",
+      "banner_enabled": true,
+      "interstitial_enabled": true,
+      "rewarded_enabled": false,
+      "banner_ad_unit_id": "2cnaujic4mcx0999",
+      "interstitial_ad_unit_id": "n6pxrezl1fbq7x4v",
+      "rewarded_ad_unit_id": "845b4vblo0fq2tyu"
+    },
+    "meta": {
+      "enabled": true,
+      "placement_banner": "3185030118346765_3208500032666440",
+      "placement_interstitial": "3185030118346765_3208500125999764",
+      "placement_native": "3185030118346765_3208500202666423",
+      "placement_rewarded": ""
+    },
+    "levelplay": {
+      "enabled": true,
+      "app_key": "2823163d5",
+      "banner_enabled": true,
+      "interstitial_enabled": true,
+      "rewarded_enabled": false,
+      "banner_ad_unit_id": "2cnaujic4mcx0999",
+      "interstitial_ad_unit_id": "n6pxrezl1fbq7x4v",
+      "rewarded_ad_unit_id": "845b4vblo0fq2tyu",
+      "mediated_networks": {
+        "admob": {
+          "enabled": true,
+          "ready": true,
+          "dashboard_setup_required": true
+        },
+        "meta": {
+          "enabled": true,
+          "ready": false,
+          "dashboard_setup_required": true
+        },
+        "yandex": {
+          "enabled": true,
+          "ready": true,
+          "dashboard_setup_required": true
+        },
+        "vungle_liftoff": {
+          "enabled": true,
+          "ready": true,
+          "dashboard_setup_required": true
+        },
+        "unity_ads": {
+          "enabled": true,
+          "ready": true,
+          "dashboard_setup_required": true
+        }
+      }
+    },
+    "yandex": {
+      "enabled": true,
+      "ready": true,
+      "managed_by": "levelplay",
+      "app_id": "",
+      "banner_id": "",
+      "interstitial_id": "",
+      "rewarded_id": ""
+    },
+    "vungle": {
+      "enabled": true,
+      "ready": true,
+      "managed_by": "levelplay",
+      "app_id": "",
+      "banner_id": "",
+      "interstitial_id": "",
+      "rewarded_id": ""
+    },
+    "unity_ads": {
+      "enabled": true,
+      "ready": true,
+      "managed_by": "levelplay",
+      "game_id_android": "6155984",
+      "banner_id": "Banner_Android",
+      "interstitial_id": "Interstitial_Android",
+      "rewarded_id": "Rewarded_Android"
+    },
+    "placements": {
+      "banner": {
+        "enabled": true,
+        "network": "admob",
+        "fallback_network": "meta",
+        "show_on": [
+          "matches",
+          "leagues",
+          "categories",
+          "highlights",
+          "news",
+          "settings",
+          "league_matches",
+          "standings",
+          "about",
+          "privacy"
+        ],
+        "position": "bottom"
+      },
+      "rewarded": {
+        "enabled": true,
+        "network": "admob",
+        "show_on_first_match_click": false,
+        "wait_for_load_ms": 2500,
+        "fallback_to_interstitial": false
+      },
+      "interstitial": {
+        "enabled": true,
+        "network": "admob",
+        "fallback_network": "admob",
+        "first_click": true,
+        "first_click_only": false,
+        "show_every_clicks": 3,
+        "min_seconds_between_ads": 0,
+        "show_on_clicks": [
+          "match_click",
+          "highlight_click",
+          "news_click",
+          "category_click",
+          "league_click"
+        ]
+      },
+      "native": {
+        "enabled": true,
+        "network": "admob",
+        "fallback_network": "meta",
+        "player_preview": {
+          "enabled": true,
+          "position": "below_preview_image"
+        },
+        "news_details": {
+          "enabled": true,
+          "position": "middle_of_article"
+        },
+        "categories": {
+          "enabled": true,
+          "insert_after_every": 4
+        },
+        "exit_dialog": {
+          "enabled": true,
+          "network": "admob",
+          "fallback_network": "meta"
+        }
+      },
+      "app_open": {
+        "enabled": true,
+        "network": "admob",
+        "show_on_app_start": false,
+        "min_seconds_between_ads": 300
+      }
+    },
+    "networks": {
+      "yandex": {
+        "enabled": true,
+        "ready": true,
+        "dashboard_required": true
+      },
+      "vungle": {
+        "enabled": true,
+        "ready": true,
+        "dashboard_required": true
+      },
+      "unity": {
+        "enabled": true,
+        "ready": true,
+        "managed_by": "levelplay",
+        "dashboard_required": true,
+        "app_id": "",
+        "banner_id": "",
+        "interstitial_id": "",
+        "rewarded_id": ""
+      }
+    }
+  },
+  "player_config": {
+    "use_external_player": true,
+    "external_player_package": "com.ilyas.playerpro",
+    "external_player_play_store_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
+  },
+  "telegram_popup": {
+    "enabled": true,
+    "show_once": true,
+    "allow_show_again": true,
+    "title": "📢 انضم إلى قناتنا على تيليجرام",
+    "message": "تابع آخر التحديثات والمحتوى الحصري عبر قناتنا الرسمية.",
+    "button_text": "الانضمام للقناة",
+    "button_url": "https://t.me/Ilyas_tv_live",
+    "dont_show_again_text": "عدم الإظهار مرة أخرى"
+  },
+    "support_card": {
+    "enabled": true,
+    "title": "شكراً لدعمك",
+    "message": "لدعم التطبيق، شاركه مع 5 من أصدقائك أو قيّمه ب5 نجوم",
+    "rate_button": "تقييم التطبيق",
+    "share_button": "مشاركة التطبيق",
+    "store_url": "https://play.google.com/store/apps/details?id=com.haydat.sa3adalive",
+    "shine_enabled": true,
+    "background_image_url": "https://github.com/ringy9/pic/blob/main/rateusapp.png?raw=true",
+    "pulse_enabled": true,
+    "pulse_scale": 1.07,
+    "pulse_duration_ms": 3400
+  },
+    "live_notifications": {
+    "enabled": true,
+    "teams": [
+      "Real Madrid",
+      "Barcelona",
+      "Atletico Madrid",
+      "Manchester City",
+      "Manchester United",
+      "Liverpool",
+      "Arsenal",
+      "Chelsea",
+      "Tottenham",
+      "Bayern Munich",
+      "Borussia Dortmund",
+      "Paris Saint Germain",
+      "PSG",
+      "Inter",
+      "AC Milan",
+      "Juventus",
+      "Napoli",
+      "Al-Hilal Saudi FC",
+      "Al-Nassr",
+      "Al-Ittihad FC",
+      "Al-Ahli Jeddah",
+      "Al Ahly",
+      "Zamalek SC",
+      "Wydad AC",
+      "Raja Casablanca",
+      "Esperance Tunis",
+      "Al Ain",
+      "Al Sadd"
+    ],
+    "poll_interval_minutes": 1,
+    "max_elapsed_minutes": 10,
+    "title": "🔴 انطلقت الآن",
+    "message": "{home} × {away} • {league} — اضغط لمتابعة تفاصيل المباراة",
+    "button": "تفاصيل المباراة",
+    "segment": "Subscribed Users"
+  }
 }
