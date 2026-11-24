@@ -145,17 +145,17 @@
     "servers": [
       {
         "name": "السيرفر 1",
-        "url": "https://live.notioncraft.studio/bein1/index.m3u8",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
         "type": "m3u8"
       },
             {
         "name": "السيرفر 2",
-        "url": "http://h34.fluxcrest.buzz/live/918454578001/index.m3u8?t=hKtav72v5aVkL3DQE5xdmw&e=1795560535",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
         "type": "m3u8"
       },
       {
         "name": "السيرفر 3",
-        "url": "http://primetv-ap.xubi.org/play/live.php?mac=00:1A:79:90:11:fc&stream=985127&extension=m3u8&play_token=",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
         "type": "m3u8"
       }
     ]
